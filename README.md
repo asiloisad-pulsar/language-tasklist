@@ -2,6 +2,9 @@
 
 Syntax highlighting for tasklist files. Provides grammar for `TODO`, `*.todo`, and `*.tasklist` files with Unicode tick symbols.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [language-tasklist](https://github.com/lumine-code/language-tasklist).
+
 ![language-tasklist](https://github.com/asiloisad-pulsar/language-tasklist/blob/master/assets/example.png?raw=true)
 
 ## Features
